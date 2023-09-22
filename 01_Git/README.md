@@ -28,7 +28,7 @@ Software Engineering - Tutorial
 - Backend: JavaScript- WebAPI - NodeJS - Express - apiary.io (WebAPIs documentation)
 - FrontEnd - TypeScript/JavaScript
 - Testing - Jest
-- CI/CD - Heroku
+- CI/CD - Heroku/Vercel
 
 ---
 
@@ -38,15 +38,14 @@ Software Engineering - Tutorial
 - Versioning
 - Branching
 - Collaboration
-- Advanced
 
 ### Tools and references
 
 - CLI (https://git-scm.com/downloads)
 - GitHub (https://github.com)
-- Git Tutorial (https://www.atlassian.com/git/tutorials)
-- Tutorials Slides and Material: https://github.com/antbucc/IS-23_24/
-
+- Visual Studio Code (https://code.visualstudio.com/)
+- Tutorials Slides and Material: https://github.com/antbucc/IS-23_24
+- IS Organization: https://github.com/IS2324
 
 ---
 
@@ -991,6 +990,9 @@ In this exercise, you will practice a collaborative Git workflow involving two t
 2. **Review and Merge:**
    - Team Member A should review the PR, add comments if necessary, and approve it if satisfied.
    - Team Member B can merge the PR into the `main` branch once it's approved.
+
+---
+# Quiz Time :) 
 
 ---
 
