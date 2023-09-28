@@ -20,7 +20,7 @@ Software Engineering - Tutorial
 ---
 
 # Tutorial Lectures of this course
-
+ererwer
 
 
 - Git - Versioning and collaboration with Git and Github
