@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+html,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  height: 40px !important;
+  border-radius: 0 !important;
+  border: 1px solid #000000 !important;
+}
+
+input {
+  width: 100% !important;
+  height: 40px !important;
+  padding: 0 10px !important;
+}
