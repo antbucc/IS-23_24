@@ -15,6 +15,7 @@ export async function POST(request: NextRequest) {
         if (userExists) {
             throw new Error("User already exists");
         }
+
         // create new user
         const salt = await bcrypt.genSalt(10);
         const hashedPassword = await bcrypt.hash(reqBody.password, salt);
